@@ -1,0 +1,9 @@
+.errbox{
+    color: red;
+    background-color: white;
+    font-family: Verdana;
+    border-color: red;
+    border-style: solid;
+    border-width: medium;
+    text-align: center;
+}
